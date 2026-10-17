@@ -1,0 +1,5 @@
+target/
+work/
+.idea/
+.m2/
+*.iml
